@@ -10,7 +10,7 @@ function App() {
           className='App-logo'
           alt='logo'
         />
-        <p>The Context was changed!</p>
+        <p>The Context was changed</p>
         <a
           className='App-link'
           href='https://reactjs.org'
